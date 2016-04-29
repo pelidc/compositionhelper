@@ -1,4 +1,5 @@
 # compositionhelper
-Generates a chord progression and tempo from a selected or random church mode.
+Generates a chord progression and tempo from a selected or randomly selected scale.
 
-Also includes 
+Scales include the 6 main church modes (excluding Locrian), and harmonic minor. Tempo is randomly generated between 60 and 120 bpm.
+
